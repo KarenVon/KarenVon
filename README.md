@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+https://user-images.githubusercontent.com/104897824/206687296-56567af8-7578-40b9-b86a-5e094255cb13.png
+
 <!--
 **KarenVon/KarenVon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
