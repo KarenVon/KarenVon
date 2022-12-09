@@ -13,10 +13,16 @@ I'm Karen, actuall student of DAM (2nd year) from Spain 🇪🇸, based in Madri
 - [Instagram](https://www.instagram.com/karen_ukiz/)
 
 
+#### Pasos para crear tu README para tu perfil:
+➡️ https://midu.dev/como-crear-tu-perfil...
+➡️ https://www.aboutmonica.com/blog/how-...
+
 
 ![me](https://user-images.githubusercontent.com/104897824/206687296-56567af8-7578-40b9-b86a-5e094255cb13.png)
 
 [![version](https://img.shields.io/badge/version-0.0.1-green.svg)](https://semver.org)
+
+
 <!--
 **KarenVon/KarenVon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
