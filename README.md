@@ -8,8 +8,8 @@ I'm Karen, actuall student of DAM (2nd year) from Spain 🇪🇸, based in Madri
 
 You cand find me 🌐
 - 📧 dam.karen.von@gmail.com
-- [Likedin] (https://www.linkedin.com/in/karen-von/)
-- [Instagram] (https://www.instagram.com/karen_ukiz/)
+- [Linkedin](https://www.linkedin.com/in/karen-von/)
+- [Instagram](https://www.instagram.com/karen_ukiz/)
 
 <!--
 **KarenVon/KarenVon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
