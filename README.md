@@ -6,7 +6,7 @@ Welcome to my page!
 
 I'm Karen, actuall student of DAM (2nd year) from Spain 🇪🇸, based in Madrid 📍
 
-You cand find me 🌐
+## You cand find me 🌐
 - 📧 dam.karen.von@gmail.com
 - [Linkedin](https://www.linkedin.com/in/karen-von/)
 - [Instagram](https://www.instagram.com/karen_ukiz/)
